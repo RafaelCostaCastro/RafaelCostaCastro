@@ -4,15 +4,32 @@ Sou estudante do quinto semestre de **Desenvolvimento de Software Multiplataform
 
 ## Linguagens de Programação
 
-```javascript
-// JavaScript
-// TypeScript
-// Java
-<!-- HTML5 -->
-/* CSS3 */
-// Node.js
-// Express
-// MongoDB
--- MySQL
-# Git
-# VS Code
+- JavaScript
+- TypeScript
+- Java
+
+## Desenvolvimento Front-End
+
+- HTML5
+- CSS3
+- Angular
+
+## Desenvolvimento Back-End e Servidor
+
+- Node.js
+- Express
+
+## Banco de Dados
+
+- MongoDB
+- MySQL
+
+## Controle de Versão e Ferramentas
+
+- Git
+- VS Code
+
+## Contato
+
+Sinta-se à vontade para entrar em contato ou conectar-se comigo!
+
