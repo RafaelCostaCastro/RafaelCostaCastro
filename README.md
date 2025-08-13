@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Rafael da Costa Castro!
 
-<!--
-**RafaelCostaCastro/RafaelCostaCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do quinto semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec de Votorantim**. Tenho experiência na área de **Perícia Criminal** em dispositivos móveis e informática na **Polícia Científica do Estado de São Paulo**.
 
-Here are some ideas to get you started:
+## Linguagens de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+// JavaScript
+// TypeScript
+// Java
+<!-- HTML5 -->
+/* CSS3 */
+// Node.js
+// Express
+// MongoDB
+-- MySQL
+# Git
+# VS Code
