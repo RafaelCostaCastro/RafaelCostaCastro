@@ -10,7 +10,10 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções inovadoras. Sempre buscando aprender mais em **desenvolvimento full stack**, integração de sistemas e segurança da informação.
+Sou entusiasta do universo tecnológico, com especial interesse em análise forense digital e no desenvolvimento de soluções inovadoras que contribuem para o avanço da sociedade e das organizações. Acredito que a interseção entre tecnologia e análise forense oferece oportunidades únicas para aprimorar processos investigativos, potencializando a coleta e interpretação de dados em ambientes digitais de forma ética, eficiente e segura.
+
+Além disso, mantenho constante dedicação ao aperfeiçoamento em áreas como desenvolvimento full stack, integração de sistemas e segurança da informação. Nos últimos anos, tenho acompanhado de perto os avanços em inteligência artificial, compreendendo seu impacto transformador no setor de tecnologia, especialmente na automação de tarefas, aprimoramento de sistemas preditivos e no fortalecimento de estratégias de cibersegurança. Considero essencial unir conhecimento técnico sólido com a adoção responsável das novas tecnologias, visando soluções cada vez mais robustas, inteligentes e alinhadas às necessidades do mundo contemporâneo.
+
 
 ---
 
