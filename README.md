@@ -43,7 +43,6 @@ Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções 
 
 ![Git](https://img.shields.io/badge/Git-CED4DA?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-![Linux](https://img.shields.io/badge/Linux-CED4DA?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
 
