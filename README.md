@@ -66,7 +66,7 @@ Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções 
 
 ## 📈 Projetos
 
-![Projects](https://github.com/SoftSolutionsProject)
+- [SoftSolutions](https://github.com/SoftSolutionsProject)
 
 ---
 
