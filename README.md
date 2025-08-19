@@ -72,8 +72,8 @@ Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções 
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/rafaelcastro/)
-- [Email](mailto:seuemail@gmail.com)
+- [LinkedIn](www.linkedin.com/in/rafael-da-costa-castro)
+- [Email](rafael.castro2@hotmail.com)
 
 ---
 
