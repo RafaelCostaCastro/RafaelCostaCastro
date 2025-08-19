@@ -66,7 +66,7 @@ Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções 
 
 ## 📈 Projetos
 
-![Rafael's GitHub Stats](https://github.com/SoftSolutionsProject)
+![Projects](https://github.com/SoftSolutionsProject)
 
 ---
 
