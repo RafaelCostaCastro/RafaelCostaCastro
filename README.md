@@ -1,12 +1,12 @@
 
-# 👋 Olá, eu sou Rafael da Costa Castro!
+# Sou Rafael da Costa Castro,
 
-🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na [Fatec de Votorantim](https://fatecvotorantim.cps.sp.gov.br/)  
+🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na (https://fatecvotorantim.cps.sp.gov.br/)  
 🕵️ **Com experiência em Perícia Criminal Digital** (dispositivos móveis e informática) na **Polícia Científica do Estado de São Paulo**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo Sobre Mim
+<https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo> Sobre Mim
 
 Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções inovadoras. Busco constantemente aprimorar meus conhecimentos em **desenvolvimento full stack**, integração de sistemas, segurança da informação e melhores práticas de mercado.
 
