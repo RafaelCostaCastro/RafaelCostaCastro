@@ -1,4 +1,4 @@
-# Rafael da Costa Castro, Perito Criminal, Desenvolvedor Multiplataforma!
+# Rafael da Costa Castro. Perito Criminal. Desenvolvedor Multiplataforma!
 
 🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na [Fatec de Votorantim](https://fatecvotorantim.cps.sp.gov.br/)  
 🕵️ **Experiência em Perícia Criminal Digital** na Polícia Científica do Estado de São Paulo
