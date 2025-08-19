@@ -1,36 +1,59 @@
+# 👋 Olá, eu sou Rafael da Costa Castro!
 
-# Sou Rafael da Costa Castro,
+🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na [Fatec de Votorantim](https://fatecvotorantim.cps.sp.gov.br/)  
+🕵️ **Experiência em Perícia Criminal Digital** na Polícia Científica do Estado de São Paulo
 
-🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na (https://fatecvotorantim.cps.sp.gov.br/)  
-🕵️ **Com experiência em Perícia Criminal Digital** (dispositivos móveis e informática) na **Polícia Científica do Estado de São Paulo**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcastro/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-<br/>
+---
 
-<https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo> Sobre Mim
+## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções inovadoras. Busco constantemente aprimorar meus conhecimentos em **desenvolvimento full stack**, integração de sistemas, segurança da informação e melhores práticas de mercado.
+Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções inovadoras. Sempre buscando aprender mais em **desenvolvimento full stack**, integração de sistemas e segurança da informação.
 
-***
+---
 
 ## 🛠️ Habilidades Técnicas
 
 ### Linguagens de Programação
 
-![Typescript](https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColorimg.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor-End
+![Typescript](https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Java](https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C)
+![JavaScript](https://img.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![HTML5](https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo3](https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logo://img.shields.io/badge/Angular-CED4DA?style=for-the-badge&logo=angular&logoColor=white API
+### Front-End
 
-![Node.js](https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor://img.shields.io/badge/Express-CED4DA?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Spring_Boot-CED4DA?style=for-the-badge&logo=spring de Dados
+![HTML5](https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Angular](https://img.shields.io/badge/Angular-CED4DA?style=for-the-badge&logo=angular&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA.shields.io/badge/MySQL-CED4DA?style=for-the-badge&logo Versionamento & Ferramentas
+### Back-End & API
 
-![Git](https://img.shields.io/badge/Git-CED4DA?style=for-the-badge Code](https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logo://img.shields.io/badge/Linux-CED4DA?style=for-the-badge&logo=linux&logoColor=FCC Atualmente aprendendo
+![Node.js](https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-CED4DA?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-CED4DA?style=for-the-badge&logo=springboot)
 
-- Programação voltada à **segurança cibernética** e **análise forense**
-- **DevOps** (Docker, CI/CD)
-- Princípios de arquitetura de software escalável
+### Banco de Dados
 
-***
+![MongoDB](https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-CED4DA?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### Versionamento & Ferramentas
+
+![Git](https://img.shields.io/badge/Git-CED4DA?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
+![Linux](https://img.shields.io/badge/Linux-CED4DA?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+---
+
+## 🌱 Atualmente aprendendo
+
+- Segurança cibernética e análise forense
+- DevOps (Docker, CI/CD)
+- Arquitetura de software escalável
+
+---
 
 ## 🏆 Experiência Profissional
 
@@ -39,17 +62,19 @@ Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções 
   - Perícia digital em casos criminais
   - Elaboração de laudos técnicos
 
-***
+---
 
 ## 📈 Estatísticas GitHub
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true Contato
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelcastro/)
 - [Email](mailto:seuemail@gmail.com)
 
-***
+---
 
 > "Sempre buscando soluções inteligentes e seguras para problemas complexos. Vamos criar juntos?" 🚀
-
-***
