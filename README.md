@@ -1,33 +1,55 @@
-# Olá, eu sou Rafael da Costa Castro!
 
-Sou estudante do quinto semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec de Votorantim**. Tenho experiência na área de **Perícia Criminal** em dispositivos móveis e informática na **Polícia Científica do Estado de São Paulo**.
+# 👋 Olá, eu sou Rafael da Costa Castro!
 
-## Linguagens de Programação
+🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na [Fatec de Votorantim](https://fatecvotorantim.cps.sp.gov.br/)  
+🕵️ **Com experiência em Perícia Criminal Digital** (dispositivos móveis e informática) na **Polícia Científica do Estado de São Paulo**
 
-<img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
-<img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" />
+<br/>
 
-## Desenvolvimento Front-End
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo Sobre Mim
 
-<img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
-<img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/Angular-CED4DA?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções inovadoras. Busco constantemente aprimorar meus conhecimentos em **desenvolvimento full stack**, integração de sistemas, segurança da informação e melhores práticas de mercado.
 
-## Desenvolvimento Back-End e Servidor
+***
 
-<img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
-<img src="https://img.shields.io/badge/Express-CED4DA?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+## 🛠️ Habilidades Técnicas
 
-## Banco de Dados
+### Linguagens de Programação
 
-<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
+![Typescript](https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColorimg.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor-End
 
+![HTML5](https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo3](https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logo://img.shields.io/badge/Angular-CED4DA?style=for-the-badge&logo=angular&logoColor=white API
 
-## Controle de Versão e Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor://img.shields.io/badge/Express-CED4DA?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Spring_Boot-CED4DA?style=for-the-badge&logo=spring de Dados
 
-- Git
-<img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
+![MongoDB](https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA.shields.io/badge/MySQL-CED4DA?style=for-the-badge&logo Versionamento & Ferramentas
 
-## Contato
+![Git](https://img.shields.io/badge/Git-CED4DA?style=for-the-badge Code](https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logo://img.shields.io/badge/Linux-CED4DA?style=for-the-badge&logo=linux&logoColor=FCC Atualmente aprendendo
 
-Sinta-se à vontade para entrar em contato ou conectar-se comigo!
+- Programação voltada à **segurança cibernética** e **análise forense**
+- **DevOps** (Docker, CI/CD)
+- Princípios de arquitetura de software escalável
+
+***
+
+## 🏆 Experiência Profissional
+
+- **Polícia Científica do Estado de São Paulo**
+  - Análise forense em dispositivos móveis
+  - Perícia digital em casos criminais
+  - Elaboração de laudos técnicos
+
+***
+
+## 📈 Estatísticas GitHub
+
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true Contato
+
+- [LinkedIn](https://www.linkedin.com/in/rafaelcastro/)
+- [Email](mailto:seuemail@gmail.com)
+
+***
+
+> "Sempre buscando soluções inteligentes e seguras para problemas complexos. Vamos criar juntos?" 🚀
+
+***
