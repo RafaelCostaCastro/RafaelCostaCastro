@@ -64,9 +64,9 @@ Sou apaixonado por tecnologia, análise forense e desenvolvimento de soluções 
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 Projetos
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Rafael's GitHub Stats](https://github.com/SoftSolutionsProject)
 
 ---
 
