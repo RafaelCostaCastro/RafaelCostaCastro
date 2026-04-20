@@ -3,7 +3,7 @@
 🎓 **Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma** na [Fatec de Votorantim](https://fatecvotorantim.cps.sp.gov.br/)  
 🕵️ **Experiência em Perícia Criminal Digital** na Polícia Científica do Estado de São Paulo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcastro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-da-costa-castro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
